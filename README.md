@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="matriculaaluno" src="https://github.com/user-attachments/assets/c2a46e5f-ce7a-40de-8055-bf93e228b4ec" /># 🎓 Projeto API - UNIESP (Back-end I)
+ 🎓 Projeto API - UNIESP (Back-end I)
 
 ## 📝 Explicação do Projeto
 Este projeto consiste em uma **API REST** para o gerenciamento de uma instituição de ensino. O sistema permite realizar o cadastro, consulta, atualização e exclusão (CRUD) de **Alunos**, **Professores**, **Disciplinas** e **Matrículas de Alunos**, integrando o backend em Java com um banco de dados relacional PostgreSQL.
